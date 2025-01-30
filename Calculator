@@ -3,4 +3,4 @@ string name= Console.ReadLine();
 
 
 Console.WriteLine("Enter the Roll Number");
-double roll number= Console.ReadLine();
+double Roll number= Console.ReadLine();
