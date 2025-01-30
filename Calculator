@@ -3,4 +3,15 @@ string name= Console.ReadLine();
 
 
 Console.WriteLine("Enter the Roll Number");
-double Roll number= Console.ReadLine();
+double Roll number= Convert.ToInt32(Comsole.ReadLine());
+
+Addition:
+Console.WriteLine("Enter 1sr Number");
+int x= Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter 2nd Number");
+int y= Conver,ToInt32(Console.ReadLine());
+int z= x=y
+Console.WriteLine("sum is" + z);
+Console.ReadLine();
+
+
