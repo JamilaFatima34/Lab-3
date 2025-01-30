@@ -14,4 +14,11 @@ int z= x=y
 Console.WriteLine("sum is" + z);
 Console.ReadLine();
 
-
+Substraction:
+Console.WriteLine("Enter 1sr Number");
+int x= Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter 2nd Number");
+int y= Conver,ToInt32(Console.ReadLine());
+int z= x-y
+Console.WriteLine("subtract is" + z);
+Console.ReadLine();
